@@ -1,0 +1,45 @@
+# Deployment Configuration
+
+# Canary Deployment Settings
+canary:
+  initial_weight: 0.01
+  weight_steps: [0.05, 0.25, 0.50, 1.0]
+  step_duration_seconds: 300
+  health_check_interval: 60
+  success_threshold: 0.99
+  latency_threshold_ms: 100
+  rollback_on_failure: true
+
+# Shadow Deployment Settings
+shadow:
+  enabled: true
+  log_predictions: true
+  comparison_metrics: ["accuracy", "latency", "distribution"]
+  storage_path: "/app/shadow_logs"
+
+# Serving Configuration
+serving:
+  host: "0.0.0.0"
+  port: 8000
+  workers: 4
+  timeout: 30
+  max_batch_size: 32
+  
+# Model Loading
+model:
+  registry_name: "production_classifier"
+  stage: "Production"
+  warmup_requests: 100
+  
+# Health Check
+health:
+  endpoint: "/health"
+  liveness_path: "/healthz"
+  readiness_path: "/readyz"
+
+# Monitoring
+monitoring:
+  enable_prometheus: true
+  metrics_port: 9090
+  log_predictions: false
+  sample_rate: 0.1
