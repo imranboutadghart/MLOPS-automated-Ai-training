@@ -1,0 +1,11 @@
+user_id,name,email,skills,experience_years,preferred_location,preferred_job_type,min_salary,created_at
+1,Alice Johnson,alice@example.com,"Python,Machine Learning,SQL",5,New York NY,full-time,100000,2024-01-15
+2,Bob Smith,bob@example.com,"JavaScript,React,Node.js",3,Remote,full-time,80000,2024-02-20
+3,Carol Williams,carol@example.com,"Python,Data Analysis,Tableau",2,Chicago IL,full-time,60000,2024-03-10
+4,David Brown,david@example.com,"Java,Spring,Kubernetes",7,San Francisco CA,full-time,130000,2024-04-05
+5,Emma Davis,emma@example.com,"Python,TensorFlow,PyTorch",4,Boston MA,full-time,110000,2024-05-12
+6,Frank Miller,frank@example.com,"AWS,Docker,Terraform",6,Seattle WA,full-time,120000,2024-06-18
+7,Grace Lee,grace@example.com,"SQL,Excel,PowerBI",1,Austin TX,full-time,55000,2024-07-22
+8,Henry Wilson,henry@example.com,"Python,FastAPI,PostgreSQL",4,Remote,full-time,95000,2024-08-30
+9,Ivy Chen,ivy@example.com,"React,TypeScript,GraphQL",3,San Francisco CA,full-time,90000,2024-09-14
+10,Jack Taylor,jack@example.com,"Python,Spark,Airflow",5,New York NY,full-time,115000,2024-10-01

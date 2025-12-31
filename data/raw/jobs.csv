@@ -1,0 +1,31 @@
+job_id,title,company,location,description,skills,salary_min,salary_max,job_type,experience_level,posted_date,is_active
+1,Senior Data Scientist,TechCorp Inc,New York NY,Lead machine learning initiatives and build predictive models for business insights,"Python,Machine Learning,TensorFlow,SQL,Statistics",120000,180000,full-time,senior,2024-12-01,1
+2,ML Engineer,DataFlow Systems,San Francisco CA,Design and deploy machine learning pipelines at scale,"Python,Kubernetes,Docker,PyTorch,MLflow",130000,190000,full-time,senior,2024-12-02,1
+3,Junior Data Analyst,Analytics Plus,Chicago IL,Analyze business data and create dashboards for stakeholders,"SQL,Excel,Tableau,Python",55000,75000,full-time,entry,2024-12-03,1
+4,Backend Developer,CloudFirst,Austin TX,Build scalable APIs and microservices for cloud platform,"Python,FastAPI,PostgreSQL,Redis,AWS",95000,140000,full-time,mid,2024-12-04,1
+5,DevOps Engineer,InfraScale,Seattle WA,Manage CI/CD pipelines and cloud infrastructure,"Kubernetes,Terraform,AWS,Docker,Jenkins",110000,160000,full-time,mid,2024-12-05,1
+6,Data Engineer,BigData Corp,Boston MA,Build and maintain data pipelines for analytics team,"Python,Spark,Airflow,SQL,AWS",100000,150000,full-time,mid,2024-12-06,1
+7,Frontend Developer,WebFlow Inc,Remote,Create responsive web applications with modern frameworks,"React,TypeScript,CSS,JavaScript,GraphQL",85000,130000,full-time,mid,2024-12-07,1
+8,AI Research Scientist,DeepMind Labs,Palo Alto CA,Conduct research in deep learning and publish papers,"Python,PyTorch,Research,NLP,Computer Vision",150000,250000,full-time,senior,2024-12-08,1
+9,Software Engineer Intern,StartupXYZ,Denver CO,Learn and contribute to full-stack development projects,"Python,JavaScript,Git,SQL",40000,55000,internship,entry,2024-12-09,1
+10,Product Manager,TechVentures,New York NY,Lead product strategy and work with engineering teams,"Agile,Jira,SQL,Analytics,Communication",110000,160000,full-time,mid,2024-12-10,1
+11,NLP Engineer,LanguageAI,San Francisco CA,Build natural language processing models for chatbots,"Python,NLP,Transformers,BERT,spaCy",125000,175000,full-time,senior,2024-12-11,1
+12,Cloud Architect,CloudScale,Seattle WA,Design multi-cloud architecture solutions for enterprise,"AWS,Azure,GCP,Terraform,Security",140000,200000,full-time,senior,2024-12-12,1
+13,QA Engineer,QualityFirst,Austin TX,Develop automated testing frameworks and ensure quality,"Python,Selenium,pytest,CI/CD,API Testing",80000,120000,full-time,mid,2024-12-13,1
+14,Data Scientist,HealthTech Inc,Boston MA,Apply ML to healthcare data for patient outcomes,"Python,R,Statistics,Healthcare,Machine Learning",105000,155000,full-time,mid,2024-12-14,1
+15,Full Stack Developer,AppBuilder,Remote,Build end-to-end web applications for clients,"JavaScript,Node.js,React,MongoDB,Docker",90000,140000,full-time,mid,2024-12-15,1
+16,MLOps Engineer,ModelDeploy,San Francisco CA,Manage ML model lifecycle and deployment infrastructure,"Python,MLflow,Kubernetes,Docker,AWS",120000,170000,full-time,senior,2024-12-16,1
+17,Business Analyst,ConsultPro,Chicago IL,Gather requirements and translate to technical specs,"SQL,Excel,PowerBI,Requirements,Communication",70000,100000,full-time,mid,2024-12-17,1
+18,Security Engineer,CyberShield,Washington DC,Implement security measures and conduct audits,"Security,Python,AWS,Penetration Testing,SIEM",115000,165000,full-time,senior,2024-12-18,1
+19,Database Administrator,DataStore,Dallas TX,Manage and optimize PostgreSQL and MongoDB databases,"PostgreSQL,MongoDB,SQL,Performance,Backup",85000,125000,full-time,mid,2024-12-19,1
+20,React Developer,FrontendMasters,Remote,Build modern React applications with TypeScript,"React,TypeScript,Redux,CSS,Testing",80000,130000,full-time,mid,2024-12-20,1
+21,Python Developer,PyTech Solutions,Portland OR,Develop Python applications and automation scripts,"Python,Django,FastAPI,PostgreSQL,Docker",85000,135000,full-time,mid,2024-12-21,1
+22,Computer Vision Engineer,VisionAI,San Diego CA,Build image recognition and video analysis systems,"Python,OpenCV,PyTorch,Computer Vision,Deep Learning",130000,185000,full-time,senior,2024-12-22,1
+23,Site Reliability Engineer,ReliableOps,New York NY,Ensure system reliability and incident response,"Kubernetes,Prometheus,Grafana,Python,On-call",120000,170000,full-time,senior,2024-12-23,1
+24,Technical Writer,DocuPro,Remote,Create technical documentation for APIs and products,"Technical Writing,Markdown,API,Git,Communication",65000,95000,full-time,mid,2024-12-24,1
+25,Blockchain Developer,CryptoTech,Miami FL,Build decentralized applications on Ethereum,"Solidity,Ethereum,JavaScript,Web3,Smart Contracts",100000,160000,full-time,mid,2024-12-25,1
+26,Data Analyst,RetailAnalytics,Los Angeles CA,Analyze retail sales data and customer behavior,"SQL,Python,Tableau,Excel,Statistics",65000,95000,full-time,entry,2024-12-26,1
+27,Systems Administrator,ITManage,Phoenix AZ,Manage Linux servers and network infrastructure,"Linux,Networking,Bash,Ansible,Monitoring",75000,110000,full-time,mid,2024-12-27,1
+28,iOS Developer,MobileFirst,Cupertino CA,Build native iOS applications with Swift,"Swift,iOS,Xcode,UIKit,SwiftUI",100000,155000,full-time,mid,2024-12-28,1
+29,Android Developer,AppDev Inc,Mountain View CA,Develop Android applications with Kotlin,"Kotlin,Android,Jetpack,Firebase,Material Design",95000,150000,full-time,mid,2024-12-29,1
+30,Scrum Master,AgileWorks,Atlanta GA,Facilitate agile ceremonies and remove blockers,"Scrum,Agile,Jira,Facilitation,Coaching",90000,130000,full-time,mid,2024-12-30,1
